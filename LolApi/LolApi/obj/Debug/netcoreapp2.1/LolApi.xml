@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>LolApi</name>
+    </assembly>
+    <members>
+        <member name="M:LolApi.Controllers.LolController.GetLolItem">
+            <summary>
+            To show a list of champions
+            </summary>
+        </member>
+        <member name="M:LolApi.Controllers.LolController.GetLolItem(System.Int32)">
+            <summary>
+            To get a champion by ID.
+            </summary>
+        </member>
+        <member name="M:LolApi.Controllers.LolController.PutLolItem(System.Int32,LolApi.Models.LolItem)">
+            <summary>
+            Update a champion information by ID
+            </summary>
+        </member>
+        <member name="M:LolApi.Controllers.LolController.PostLolItem(LolApi.Models.LolItem)">
+            <summary>
+            Create a new champion detail.
+            </summary>
+        </member>
+        <member name="M:LolApi.Controllers.LolController.DeleteLolItem(System.Int32)">
+            <summary>
+            Delete a champion by ID.
+            </summary>
+        </member>
+        <member name="M:LolApi.Controllers.LolController.GetTags">
+            <summary>
+            Get champion's skins by tags
+            </summary>
+        </member>
+        <member name="M:LolApi.Controllers.LolController.GetTagsItem(System.String)">
+            <summary>
+            Search champion's skins by tags
+            </summary>
+        </member>
+        <member name="M:LolApi.Controllers.LolController.UploadFile(LolApi.Models.LolImageItem)">
+            <summary>
+            Upload a new skin for a champion.
+            </summary>
+        </member>
+    </members>
+</doc>

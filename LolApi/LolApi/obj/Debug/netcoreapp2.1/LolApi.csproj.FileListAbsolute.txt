@@ -1,0 +1,16 @@
+D:\Project\LolApi\LolApi\bin\Debug\netcoreapp2.1\LolApi.deps.json
+D:\Project\LolApi\LolApi\bin\Debug\netcoreapp2.1\LolApi.runtimeconfig.json
+D:\Project\LolApi\LolApi\bin\Debug\netcoreapp2.1\LolApi.runtimeconfig.dev.json
+D:\Project\LolApi\LolApi\bin\Debug\netcoreapp2.1\LolApi.dll
+D:\Project\LolApi\LolApi\bin\Debug\netcoreapp2.1\LolApi.pdb
+D:\Project\LolApi\LolApi\obj\Debug\netcoreapp2.1\LolApi.csproj.CoreCompileInputs.cache
+D:\Project\LolApi\LolApi\obj\Debug\netcoreapp2.1\LolApi.RazorAssemblyInfo.cache
+D:\Project\LolApi\LolApi\obj\Debug\netcoreapp2.1\LolApi.RazorAssemblyInfo.cs
+D:\Project\LolApi\LolApi\obj\Debug\netcoreapp2.1\LolApi.AssemblyInfoInputs.cache
+D:\Project\LolApi\LolApi\obj\Debug\netcoreapp2.1\LolApi.AssemblyInfo.cs
+D:\Project\LolApi\LolApi\obj\Debug\netcoreapp2.1\LolApi.RazorTargetAssemblyInfo.cache
+D:\Project\LolApi\LolApi\obj\Debug\netcoreapp2.1\LolApi.dll
+D:\Project\LolApi\LolApi\obj\Debug\netcoreapp2.1\LolApi.pdb
+D:\Project\LolApi\LolApi\obj\Debug\netcoreapp2.1\LolApi.csprojAssemblyReference.cache
+D:\Project\LolApi\LolApi\bin\Debug\netcoreapp2.1\LolApi.xml
+D:\Project\LolApi\LolApi\obj\Debug\netcoreapp2.1\LolApi.xml
